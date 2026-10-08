@@ -1,16 +1,19 @@
-## Hi there 👋
+¡Hola, soy Miguel Ángel Serrano Diaz! 👋
 
-<!--
-**serranodiazm3-byte/serranodiazm3-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante del SENA en Análisis y Desarrollo de Software, apasionado por la programación, el diseño de bases de datos y la creación de soluciones tecnológicas eficientes.
 
-Here are some ideas to get you started:
+💻 Stack Tecnológico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lenguajes: C#, Python
+
+Bases de Datos: MySQL
+
+Herramientas: Git, Git Bash, Linux, Figma, Unity
+
+🚀 Sobre mí
+
+🌱 Formándome activamente como tecnólogo en el SENA.
+
+💬 Pregúntame sobre C#, bases de datos y control de versiones.
+
+📫 ¿Quieres conectar o colaborar? ¡Hablemos!
